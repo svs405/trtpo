@@ -32,7 +32,7 @@
 
 ##4. Диаграмма классов  
 
-![](https://github.com/svs405/trtpo/blob/master/lab2/images/calss.jpg)
+![](https://github.com/svs405/trtpo/blob/master/lab2/images/class.jpg)
 
 ##5. Диаграмма последовательностий  
 
@@ -52,4 +52,4 @@
 
 ##9. Диаграмма компонентов  
 
-![](https://github.com/svs405/trtpo/blob/master/lab2/images/componets.jpg)
+![](https://github.com/svs405/trtpo/blob/master/lab2/images/components.jpg)
