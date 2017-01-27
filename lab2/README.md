@@ -31,24 +31,24 @@
 
 ##4. Диаграмма классов  
 
-![](https://github.com/svs405/trtpo/tree/master/lab2/images/calss.jpg)
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/calss.jpg?raw=true)
 
 ##5. Диаграмма последовательностий  
 
-![](https://github.com/svs405/trtpo/tree/master/lab2/images/sequence.jpg)
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/sequence.jpg?raw=true)
 
 ##6. Диаграмма состояний
 
-![](https://github.com/svs405/trtpo/tree/master/lab2/images/state.jpg)
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/state.jpg?raw=true)
 
 ##7. Диаграмма использований  
 
-![](https://github.com/svs405/trtpo/tree/master/lab2/images/use-case.jpg)
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/use-case.jpg?raw=true)
 
 ##8. Диаграмма деятельности  
 
-![](https://github.com/svs405/trtpo/tree/master/lab2/images/activity.jpg)
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/activity.jpg?raw=true)
 
 ##9. Диаграмма компонентов  
 
-![](https://github.com/svs405/trtpo/tree/master/lab2/images/componets.jpg)
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/componets.jpg?raw=true)
