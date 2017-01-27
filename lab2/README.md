@@ -14,7 +14,7 @@
 //картиночки 
 //4 штуки
 
-* Целевая аудитория:
+* Целевая аудитория:  
   Приложение подойдет для всех возрастных групп
 * предположения и зависимости:
 
@@ -31,26 +31,24 @@
 
 ##4. Диаграмма классов  
 
-![](//images/calss)
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/calss.jpg)
 
 ##5. Диаграмма последовательностий  
 
-![](//images/sequence)
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/sequence.jpg)
 
 ##6. Диаграмма состояний
 
-![](//images/state)
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/state.jpg)
 
 ##7. Диаграмма использований  
 
-![](//images/use-case)
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/use-case.jpg)
 
 ##8. Диаграмма деятельности  
 
-![](//images/activity)
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/activity.jpg)
 
 ##9. Диаграмма компонентов  
 
-![](//images/componets)
-
-##10. Диаграмма 
+![](https://github.com/svs405/trtpo/tree/master/lab2/images/componets.jpg)
